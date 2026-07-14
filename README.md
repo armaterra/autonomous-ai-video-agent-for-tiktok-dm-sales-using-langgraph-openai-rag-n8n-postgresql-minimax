@@ -29,7 +29,6 @@ Production-ready AI Agent architecture for **Odoo 19 Enterprise** integrating:
 Designed for enterprise deployments requiring scalable conversational AI connected directly to ERP data.
 
 ---
-# odoo-19-ai-agent-rest-api-json-rpc-langgraph-fastapi-meta-webhook
 Odoo 19 AI Agent | REST API, JSON-RPC, LangGraph, Redis Checkpointer, FastAPI &amp; Meta Webhooks
 # Main Features
 
@@ -53,7 +52,7 @@ Odoo 19 AI Agent | REST API, JSON-RPC, LangGraph, Redis Checkpointer, FastAPI &a
 ---
 
 # System Architecture
-
+# odoo-19-ai-agent-rest-api-json-rpc-langgraph-fastapi-meta-webhook
 ```text
 
                         +------------------------+
