@@ -1,5 +1,3 @@
-# odoo-19-ai-agent-rest-api-json-rpc-langgraph-fastapi-meta-webhook
-Odoo 19 AI Agent | REST API, JSON-RPC, LangGraph, Redis Checkpointer, FastAPI &amp; Meta Webhooks
 # 🚀 Odoo 19 AI Agent
 ## REST API • JSON-RPC • LangGraph • Redis Checkpointer • FastAPI • Meta WhatsApp Cloud API
 
@@ -31,39 +29,25 @@ Production-ready AI Agent architecture for **Odoo 19 Enterprise** integrating:
 Designed for enterprise deployments requiring scalable conversational AI connected directly to ERP data.
 
 ---
-
+# odoo-19-ai-agent-rest-api-json-rpc-langgraph-fastapi-meta-webhook
+Odoo 19 AI Agent | REST API, JSON-RPC, LangGraph, Redis Checkpointer, FastAPI &amp; Meta Webhooks
 # Main Features
 
 ✅ Long-Term Memory using Redis
-
 ✅ Multi-Agent Architecture (LangGraph)
-
 ✅ Odoo JSON-RPC Connector
-
 ✅ Odoo REST API
-
 ✅ AI Sales Assistant
-
 ✅ CRM Automation
-
 ✅ Inventory Assistant
-
 ✅ Purchase Orders
-
 ✅ Accounting Assistant
-
 ✅ Human Handoff
-
 ✅ Prompt Guardrails
-
 ✅ Hallucination Detection
-
 ✅ Audit Logs
-
 ✅ OAuth Authentication
-
 ✅ JWT Security
-
 ✅ Multi-company Support
 
 ---
