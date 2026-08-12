@@ -1,4 +1,4 @@
-# ARMATERRA API
+# Autonomous AI Video Agent for TikTok DM Sales using LangGraph, OpenAI, RAG, n8n, PostgreSQL, MiniMax-H3, Langfuse, and FastAPI.
 
 **Sistema Autónomo de Generación de Video + Agente de Ventas para Bootcamp de Ciberseguridad**
 
