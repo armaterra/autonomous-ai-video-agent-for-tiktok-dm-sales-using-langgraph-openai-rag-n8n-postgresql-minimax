@@ -10,7 +10,7 @@ langgraph==0.2.65
 langchain==0.3.14
 langchain-core==0.3.29
 langchain-openai==0.3.6
-langfuse==3.4.0
+langfuse>=3.0.0
 sqlalchemy==2.0.38
 asyncpg==0.30.0
 redis==5.2.1
