@@ -1,4 +1,3 @@
-```markdown
 # ARMATERRA API
 
 **Sistema Autónomo de Generación de Video + Agente de Ventas para Bootcamp de Ciberseguridad**
