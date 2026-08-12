@@ -58,7 +58,7 @@ class RAGService:
     def format_context(self, results: List[Dict[str, Any]]) -> str:
         """Formatea los resultados del RAG como contexto para el LLM."""
         if not results:
-            return "No hay información disponible sobre este tema."
+            return "No hay información disponible sobre este tema al respecto."
 
         context_parts = []
         for i, doc in enumerate(results):
