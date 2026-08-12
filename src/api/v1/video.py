@@ -15,7 +15,7 @@ tiktok_service = TikTokService()
 
 @router.post("/generate", response_model=VideoGenerationResponse)
 async def generate_video(request: VideoGenerationRequest):
-    """Genera un video usando MiniMax-H3."""
+    """Genera un video usando MiniMax-H3 PRO."""
     try:
         result = await minimax_service.generate_video(request)
         return result
