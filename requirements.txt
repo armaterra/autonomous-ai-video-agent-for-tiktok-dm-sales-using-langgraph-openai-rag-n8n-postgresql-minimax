@@ -6,10 +6,10 @@ python-dotenv==1.0.1
 httpx==0.28.1
 requests==2.32.3
 python-multipart==0.0.20
-langgraph==0.2.65
-langchain==0.3.14
-langchain-core==0.3.29
-langchain-openai==0.3.6
+langgraph>=0.2.60
+langchain>=0.3.0
+langchain-core>=0.3.35
+langchain-openai>=0.3.6
 langfuse>=3.0.0
 sqlalchemy==2.0.38
 asyncpg==0.30.0
